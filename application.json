@@ -31,6 +31,14 @@
     {
       "id": "Public.users",
       "isDefault": false
+    },
+    {
+      "id": "Page6",
+      "isDefault": false
+    },
+    {
+      "id": "Movies3",
+      "isDefault": false
     }
   ],
   "viewMode": false,
