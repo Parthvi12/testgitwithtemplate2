@@ -1893,7 +1893,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page6_FindQuery",
               "name": "FindQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

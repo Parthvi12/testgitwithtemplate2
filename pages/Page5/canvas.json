@@ -1926,7 +1926,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page5_SelectQuery",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
